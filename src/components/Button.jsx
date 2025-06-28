@@ -47,7 +47,7 @@ const Button = ({
   
   return (
     <button
-      className={buttonClasses}
+      className={`transition-colors duration-200 ${buttonClasses}`}
       disabled={disabled}
       onClick={onClick}
       {...rest}
@@ -66,4 +66,4 @@ Button.propTypes = {
   className: PropTypes.string,
 };
 
-export default Button; 
+export default Button;
