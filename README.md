@@ -60,7 +60,7 @@ A responsive React application demonstrating component architecture, state manag
 
 ## 🌐 Deployed Application
 
-[Live Demo](https://your-deployment-url.vercel.app)
+[Live Demo](https://week-3-react-js-assignment-sir-jame.vercel.app)
 
 ---
 
@@ -91,7 +91,7 @@ src/
 
 ## 👤 Author
 
-- [Your Name](https://github.com/your-username)
+- [Your Name](https://github.com/PLP-MERN-Stack-Development/week-3-react-js-assignment-Sir-JamesMuritu)
 
 ---
 
