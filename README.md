@@ -91,7 +91,7 @@ src/
 
 ## 👤 Author
 
-- [Your Name](https://github.com/PLP-MERN-Stack-Development/week-3-react-js-assignment-Sir-JamesMuritu)
+- [Sir-JamesMuritu](https://github.com/PLP-MERN-Stack-Development/week-3-react-js-assignment-Sir-JamesMuritu)
 
 ---
 
